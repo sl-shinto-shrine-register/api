@@ -1,20 +1,28 @@
-# Start Jekyll
+API of the Second Life Shinto shrine register (SLSR)
+====================================================
+[![Chat](https://discordapp.com/api/guilds/491727805885710336/widget.png?style=shield)](https://discord.gg/AeY5654)
+[![All shrines](https://slsr.org/shrine-counter-badge.php?locale=en)](https://slsr.org/shrines)
 
-A guide to getting started with Jekyll.
+About
+-----
+This repository contains the API of the Second Life Shinto shrine register (SLSR).
+**Currently still in development!**
 
-### [Read the tutorial](https://taniarascia.com/make-a-static-website-with-jekyll) | [View the demo](http://taniarascia.github.io/startjekyll/)
+Intall notes
+------------
+1. Install [Jekyll](https://jekyllrb.com).
+2. Clone this repository.
+3. Run inside it `jekyll s`.
+4. Access [http://localhost:4000](http://localhost:4000).
 
-## Purpose
+License
+-------
+This project is free software under the terms of the GNU General Public License v3 as published by the Free Software Foundation.
+It is distributed WITHOUT ANY WARRANTY (without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE).
+For more details please see the LICENSE file or: http://www.gnu.org/licenses
 
-- Learn about static site generators
-- Install Ruby and Jekyll
-- Create a custom website running on Jekyll and Sass
-- Deploy a Jekyll site to GitHub pages
-
-## Author
-
-- [Tania Rascia](https://www.taniarascia.com)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+Credits
+-------
+* Homepage: https://www.slsr.org
+* Git repository: https://github.com/sl-shinto-shrine-register/api.git
+* Based on: https://www.taniarascia.com/make-a-static-website-with-jekyll
