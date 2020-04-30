@@ -1,15 +1,11 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: SLSR API
+email: webmaster@slsr.org
 description: >
-  A guide to getting started with Jekyll.
-baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+  API of the Second Life Shinto shrine register (SLSR).
+baseurl: ""
+url: "https://api.slsr.org"
+
 # Build Settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
 kramdown:
   input: GFM
