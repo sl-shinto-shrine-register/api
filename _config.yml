@@ -8,7 +8,7 @@ url: "https://api.slsr.org"
 
 # Handling Reading
 include: ['_endpoints']
-exclude: ['CNAME', 'LICENSE.txt', 'README.md']
+exclude: ['CNAME']
 
 # Build Settings
 kramdown:
