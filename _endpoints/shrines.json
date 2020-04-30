@@ -1,0 +1,5 @@
+---
+permalink: /shrines/
+---
+
+{{ site.data.shrines | jsonify }}

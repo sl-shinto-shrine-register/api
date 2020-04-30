@@ -6,6 +6,9 @@ description: >
 baseurl: ""
 url: "https://api.slsr.org"
 
+# Handling Reading
+include: ['_endpoints']
+
 # Build Settings
 kramdown:
   input: GFM
